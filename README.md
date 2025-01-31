@@ -4,13 +4,10 @@
 
 <h3 align="center">I'm just a professional skids in my country.</h3>
 
-###
+---
 
-<h6 align="center">- Language -</h6>
-
-###
-
-<h4 align="center">Language I Know:</h4>
+<h4 align="center">- Tools/Languages -</h4>
+<h3 align="center">Languages I Understand:</h3>
 
 ###
 
@@ -32,11 +29,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
 </div>
 
-###
+---
 
-<h6 align="center">- Contribution Snake -</h6>
-
-###
+<h4 align="center">- Contribution Snake -</h4>
 
 <br clear="both">
 
