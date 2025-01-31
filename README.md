@@ -39,6 +39,5 @@
 ###
 
 <br clear="both">
-<p align="center">
     ![snake gif](https://github.com/notazusaa/notazusaa/blob/output/github-snake-dark.svg)
-</p>
+
