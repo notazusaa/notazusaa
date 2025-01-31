@@ -33,7 +33,5 @@
 
 <h4 align="center">- Contribution Snake -</h4>
 
-<br clear="both">
-
 ![snake gif](https://github.com/notazusaa/notazusaa/blob/output/github-snake-dark.svg)
 
